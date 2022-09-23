@@ -4059,7 +4059,7 @@
 	focus = {
 		id = JAP_the_manchurian_project
 		icon = GFX_focus_jap_manchurian_project
-		x = 12
+		x = 16
 		y = 0
 		relative_position_id = JAP_strengthen_civilian_government
 		offset = {
@@ -5585,7 +5585,7 @@ focus = { #天啓
 			focus = JAP_the_unthinkable_option 
 			focus = JAP_strengthen_civilian_government
 		}
-		x = 4
+		x = 6
 		y = 0
 		relative_position_id = JAP_support_the_kodoha_faction
 		offset = {	#　トリガーが真の時フォーカスの配置を変更する ※13
@@ -5861,7 +5861,7 @@ focus = { #天啓
 			#has_dlc = "Waking the Tiger"
 		}
 
-		x = -1.5　# x は、フォーカスツリー上の水平方向の位置である。
+		x = -2　# x は、フォーカスツリー上の水平方向の位置である。
 		y = 1　# y は、フォーカスツリー上の垂直方向の位置である。
 		relative_position_id = JAP_Transactions_with_the_U.S.	#ここに設定されたNFを親としてそれに対するX,Yの値を相対的に配置する。負の値も可※2
 
@@ -6077,7 +6077,7 @@ focus = { #天啓
 			#has_dlc = "Waking the Tiger"
 		}
 
-		x = 1.3　# x は、フォーカスツリー上の水平方向の位置である。
+		x = 2　# x は、フォーカスツリー上の水平方向の位置である。
 		y = 1　# y は、フォーカスツリー上の垂直方向の位置である。
 		relative_position_id = JAP_military_reform	#ここに設定されたNFを親としてそれに対するX,Yの値を相対的に配置する。負の値も可※2
 		
@@ -6486,7 +6486,7 @@ focus = { #天啓
 			#has_dlc = "Waking the Tiger"
 		}
 
-		x = 2.5　# x は、フォーカスツリー上の水平方向の位置である。
+		x = 4　# x は、フォーカスツリー上の水平方向の位置である。
 		y = 1　# y は、フォーカスツリー上の垂直方向の位置である。
 		relative_position_id = JAP_military_reform	#ここに設定されたNFを親としてそれに対するX,Yの値を相対的に配置する。負の値も可※2
 		
@@ -6683,7 +6683,7 @@ focus = { #天啓
 			#has_dlc = "Waking the Tiger"
 		}
 
-		x = -1.5　# x は、フォーカスツリー上の水平方向の位置である。
+		x = -2　# x は、フォーカスツリー上の水平方向の位置である。
 		y = 1　# y は、フォーカスツリー上の垂直方向の位置である。
 		relative_position_id = JAP_Proposal_to_Guarantee_Independence_to_Manchukuo	#ここに設定されたNFを親としてそれに対するX,Yの値を相対的に配置する。負の値も可※2
 
@@ -6761,7 +6761,7 @@ focus = { #天啓
 			#has_dlc = "Waking the Tiger"
 		}
 
-		x = -1　# x は、フォーカスツリー上の水平方向の位置である。
+		x = -2　# x は、フォーカスツリー上の水平方向の位置である。
 		y = 1　# y は、フォーカスツリー上の垂直方向の位置である。
 		relative_position_id = JAP_Establishment_of_the_New_Beijing_Special_Economic_Zone	#ここに設定されたNFを親としてそれに対するX,Yの値を相対的に配置する。負の値も可※2
 
